@@ -5,7 +5,7 @@ This project implements a secure, two-phase token migration system for the PUSH 
 ## Details on Migration
 The migration of tokens is from:
 - **Old Token:** ERC20 Push Token on Ethereum [@0xf418588522d5dd018b425e472991e52ebbeeeeee](https://etherscan.io/token/0xf418588522d5dd018b425e472991e52ebbeeeeee)
-- **New Token:** Native $PUSH Token on Push Chain. ( *Push Chain is a EVM-Compatible chain on Cosmos with a native token called PUSH*)
+- **New Token:** Native $PC Token on Push Chain. ( *Push Chain is a universal blockchain with a native token called PC*)
 
 **Migration Amounts**
 - Token migration is planned to be at a 1:15 ratio (1 Push Protocol token = 15 Push Chain tokens).
